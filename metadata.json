@@ -1,0 +1,8 @@
+{
+  "name": "Brunos Lebensgeschichte",
+  "description": "Brunos Lebensgeschichte – Ein nostalgisches, privates Tagebuch im Leder- und Pergament-Stil mit biometrischem Schutz/PIN, 3D-Buchaufklapp-Animation, Durchblätter-Effekt zur letzten Seite, Pergament-PDF-Export, Stimmungsverlauf und Gemini KI-Assistent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

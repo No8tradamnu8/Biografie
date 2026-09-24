@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Brunos Lebensgeschichte</string>
+    <string name="app_subtitle">Das Tagebuch einer Lebensgeschichte</string>
+    <string name="btn_speak">Diktieren</string>
+    <string name="btn_gemini_live">Gemini Gespräch</string>
+    <string name="btn_read_aloud">Vorlesen</string>
+    <string name="btn_stop_reading">Anhalten</string>
+    <string name="btn_apply_suggestion">Übernehmen</string>
+    <string name="btn_discard_suggestion">Verwerfen</string>
+    <string name="mic_listening">Zuhören…</string>
+    <string name="ai_improving">Tinte trocknet… KI verfeinert…</string>
+    <string name="permission_mic_title">Mikrofon-Berechtigung erforderlich</string>
+    <string name="permission_mic_desc">Für Spracheingabe und den Gemini Live Modus wird Zugriff auf das Mikrofon benötigt.</string>
+    <string name="reminder_title">Tägliche Erinnerung</string>
+    <string name="reminder_channel_name">Tagebuch-Erinnerung</string>
+    <string name="reminder_notification_title">Zeit für dein Tagebuch</string>
+</resources>
